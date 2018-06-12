@@ -15,5 +15,8 @@ Here I've tried Q Learning and Deep Q Learning two different algorithms.
 Could choose to use a trained-well model
 `$ python run.py [--reuse=True, False]`
 
+## Detail
+For more details please see the report.pdf file
+
 As for DQN algorithm implementation, I reference this tutorial:
 https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/
